@@ -5,7 +5,7 @@
 
 * {
     all: unset;
-    font-family: 'Nerd Fonts Mono', monospace;
+    font-family: 'Hack Nerd Font', monospace;
     font-size: 16px;
     outline: none;
     border: none;
@@ -17,7 +17,7 @@ window {
     all: unset;
     padding: 20px;
     border-radius: 20px;
-    background-color: alpha(#4A478A, .85);
+    background-color: alpha(#1e1e2e, .9);
 }
 
 #inner-box {
@@ -47,7 +47,7 @@ window {
     color: #cdb5ff;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
     border-radius: 10;
-    background-color: alpha(#4A478A, .75);
+    background-color: alpha(#313244, .75);
 }
 
 #input image {
